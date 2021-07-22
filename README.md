@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![](Screenshot/Screenshot.png)
+![](Screenshots/Screenshot.png)
 
 ## Built With
 
